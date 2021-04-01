@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "address": "0xc12458044ED7F83153a3867f13Cf06D97a9A172F",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 1337,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+  },
+  {
+    "name": "Uniswap",
+    "address": "0xe00B26C9924299e9099d29D43768E8433660fEdd",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 1337,
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  }
+]
