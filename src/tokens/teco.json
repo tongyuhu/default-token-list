@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 1337,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x321548C0Ac341dC9cA4F3eaB572bb1174C479457",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 1337,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   }
 ]

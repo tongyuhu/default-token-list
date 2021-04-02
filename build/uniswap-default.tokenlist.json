@@ -1,6 +1,6 @@
 {
   "name": "Uniswap Default List",
-  "timestamp": "2021-04-01T07:03:32.622Z",
+  "timestamp": "2021-04-02T02:05:03.491Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -428,6 +428,14 @@
       "decimals": 18,
       "chainId": 1337,
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x321548C0Ac341dC9cA4F3eaB572bb1174C479457",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 1337,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "name": "Wrapped Ether",
