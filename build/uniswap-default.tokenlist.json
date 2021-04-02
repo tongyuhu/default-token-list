@@ -1,6 +1,6 @@
 {
   "name": "Uniswap Default List",
-  "timestamp": "2021-04-02T02:05:03.491Z",
+  "timestamp": "2021-04-02T08:32:58.153Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -423,7 +423,7 @@
     },
     {
       "name": "Uniswap",
-      "address": "0xe00B26C9924299e9099d29D43768E8433660fEdd",
+      "address": "0x084A5f89D54D7a658ED2755A6807ea9457F2E6D8",
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 1337,
@@ -431,9 +431,9 @@
     },
     {
       "name": "Tether USD",
-      "address": "0x321548C0Ac341dC9cA4F3eaB572bb1174C479457",
+      "address": "0x2B1d8a0d0B3040FDB678C94b8d3454909630F1E6",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 1337,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
